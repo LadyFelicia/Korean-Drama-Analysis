@@ -8,7 +8,7 @@
 
 Dataset - Korean Drama
 
-Link to dataset: https://www.kaggle.com/datasets/apu612/korean-drama
+Link to the raw dataset: https://www.kaggle.com/datasets/apu612/korean-drama
 
 **Tools Used**:  
 
@@ -37,4 +37,4 @@ After analyzing the data to generate insights from the dataset, I utilized Micro
 
 **Findings**: 
 
-The analysis reveals that the Korean drama Squid Game has significantly influenced viewership on the Netflix platform. Viewers are attracted to diverse genres, including action, romance, survival, comedy, fantasy, crime, historical, and drama. SBS has emerged as the leading network for Korean dramas viewership. In 2015, the Korean drama Reply 1988 achieved the highest drama rating, scoring 9.10 overall within nearly two decades. Similarly, the Korean drama Mr. Queen attained the highest drama rating overall. Furthermore, the data indicates that specific actors can impact viewership ratings within particular networks.
+The analysis reveals that the Korean drama Squid Game has significantly influenced viewership on the Netflix platform. Viewers are attracted to diverse genres, including action, romance, survival, comedy, fantasy, crime, historical, and drama. SBS has emerged as the leading network for Korean drama viewership. In 2015, the Korean drama Reply 1988 achieved the highest drama rating, scoring 9.10 overall within nearly two decades. Similarly, the Korean drama Mr. Queen attained the highest drama rating overall. Furthermore, the data indicates that specific actors can impact viewership ratings within particular networks.
