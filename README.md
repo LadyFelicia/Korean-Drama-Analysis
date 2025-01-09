@@ -1,6 +1,6 @@
 # Korean-Drama-Analysis
 
-**Objective**: I acted as an independent data consultant for various networks.
+**Objective**: I acted as an Data Analyst for various networks.
 
 **Project Overview**: The Korean drama analysis project aims to analyze and visualize interesting patterns and trends to help TV networks determine the type of Korean drama that will bring the most viewership to their network. 
 
